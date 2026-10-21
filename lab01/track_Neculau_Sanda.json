@@ -1,0 +1,29 @@
+{
+  "data_preview": {
+    "device_context": {
+      "browser": "PostmanRuntime 7.49.1",
+      "device_type": "Desktop",
+      "is_bot": false,
+      "os": "Other ",
+      "raw_user_agent": "PostmanRuntime/7.49.1"
+    },
+    "event_payload": {
+      "student_name": "Neculau Sanda"
+    },
+    "navigation_context": {
+      "current_url": "http://127.0.0.1:5000/track",
+      "http_method": "POST",
+      "referrer": null
+    },
+    "network": {
+      "ip_address": "127.0.0.1"
+    },
+    "user_preferences_implicit": {
+      "all_languages": "",
+      "preferred_language": null
+    },
+    "user_session_id": "anon_user_12345"
+  },
+  "message": "Date colectate cu succes pentru profilare",
+  "status": "success"
+}
